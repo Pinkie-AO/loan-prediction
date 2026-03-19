@@ -1,13 +1,13 @@
 # Loan Default Prediction Using Machine Learning
 
-## 📌 Project Overview
+## Project Overview
 This project aims to predict whether a loan application will be approved based on applicant characteristics such as income, credit score, employment status, and existing financial obligations.
 
 The goal is to build a machine learning model that can assist financial institutions in making informed lending decisions and reducing default risk.
 
 ---
 
-## 📊 Dataset
+## Dataset
 The dataset contains 1000 observations with the following features:
 
 - Age  
@@ -23,7 +23,7 @@ The dataset contains 1000 observations with the following features:
 
 ---
 
-## ⚙️ Data Preprocessing
+## Data Preprocessing
 The following steps were performed:
 
 - Removed irrelevant column (`applicant_id`)
@@ -32,7 +32,7 @@ The following steps were performed:
 
 ---
 
-## 🤖 Models Used
+## Models Used
 
 ### 1. Logistic Regression
 - Baseline model
@@ -44,7 +44,7 @@ The following steps were performed:
 
 ---
 
-## 📈 Model Performance
+## Model Performance
 
 | Model | Accuracy |
 |------|--------|
@@ -53,7 +53,7 @@ The following steps were performed:
 
 ---
 
-## 🔍 Evaluation Metrics (Random Forest)
+## Evaluation Metrics (Random Forest)
 
 - Accuracy: 98%  
 - Precision: 0.97 (Approved loans)  
@@ -65,7 +65,7 @@ Confusion Matrix:
 
 ---
 
-## 💡 Key Insights
+## Key Insights
 
 - **Credit score** is the most important factor in loan approval decisions  
 - **Number of dependents** significantly affects financial risk  
@@ -75,14 +75,14 @@ Confusion Matrix:
 
 ---
 
-## ⚠️ Limitations
+## Limitations
 
 - The model may be slightly overfitted due to high accuracy  
 - Further validation with external datasets is recommended  
 
 ---
 
-## 🚀 Conclusion
+## Conclusion
 
 The Random Forest model significantly outperformed Logistic Regression, achieving high accuracy and capturing complex patterns in the data.
 
@@ -90,7 +90,7 @@ This project demonstrates how machine learning can be applied to real-world fina
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - Python  
 - Pandas  
@@ -101,7 +101,7 @@ This project demonstrates how machine learning can be applied to real-world fina
 
 ---
 
-## 📌 Future Improvements
+## Future Improvements
 
 - Hyperparameter tuning  
 - Cross-validation  
@@ -110,7 +110,7 @@ This project demonstrates how machine learning can be applied to real-world fina
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Pinkie Akinyi Odipo**
 
