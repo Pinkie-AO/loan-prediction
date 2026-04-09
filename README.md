@@ -92,11 +92,7 @@ This project demonstrates how machine learning can be applied to real-world fina
 
 ## Tools & Technologies
 
-- Python  
-- Pandas  
-- NumPy  
-- Scikit-learn  
-- Matplotlib & Seaborn  
+- Python   
 - Jupyter Notebook (VS Code)
 
 ---
